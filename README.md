@@ -34,10 +34,6 @@ Registered Users can create Goals persisting the data on the project with JWT Au
 
 ---
 
-## 🌐 Live Example
-
-[You can access a Live Example clicking Here](https://mern-goals-rafaelnps.herokuapp.com/login)
-
 ## ⚙️ Features
 
 - [X] Dashboard
@@ -48,6 +44,10 @@ Registered Users can create Goals persisting the data on the project with JWT Au
   - [x] Login User
   - [x] Logout
 
+
+## 🌐 Live Example
+
+[You can access a Live Example clicking Here! 😁](https://mern-goals-rafaelnps.herokuapp.com/login)
 
 ## Examples
 
