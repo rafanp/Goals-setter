@@ -34,7 +34,7 @@ Registered Users can create Goals persisting the data on the project with JWT Au
 
 ---
 
-## Live Example
+## 🌐 Live Example
 
 [You can access a Live Example clicking Here](https://mern-goals-rafaelnps.herokuapp.com/login)
 
@@ -52,9 +52,9 @@ Registered Users can create Goals persisting the data on the project with JWT Au
 ## Examples
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="GoalSetter" title="#GoalSetter" src="./frontend/public/login-example.png.png" width="600px">
+  <img alt="GoalSetter" title="#GoalSetter" src="./frontend/public/login-example.png" width="600px">
 
-  <img alt="GoalSetter" title="#GoalSetter" src="./frontend/public/dashboard-example.png.png" width="600px">
+  <img alt="GoalSetter" title="#GoalSetter" src="./frontend/public/dashboard-example.png" width="600px">
 </p>
 
 ---
@@ -113,8 +113,6 @@ The following technologies are used during this project development:
 ---
 
 ## 📝 License
-
-This is project is under the [MIT](./LICENSE) license.
 
 Developed by Rafael Neves, based on the [Traversy Media](https://www.youtube.com/c/TraversyMedia) channel.
 
